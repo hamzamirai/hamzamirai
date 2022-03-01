@@ -9,7 +9,7 @@
 - Swift <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
 
 ## Connect
-- [miraidevs.com<img align="left" alt="miraidevs | Website" width="22px" />][website]
+- [miraidevs.com][website]
 - [LinkedIn<img align="left" alt="xcodingwithalfian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin] 
 - [Instagram<img align="left" alt="xcodingwithalfian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][Instagram] 
 
