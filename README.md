@@ -29,3 +29,7 @@
 
 <img src="https://github.com/Amira-Zahran/Amira-zahran/blob/output/github-contribution-grid-snake.svg" alt="Snake"/>
 
+## 🏆 GitHub Profile Trophies
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=algolia" alt="a-hemeda" /></a> </p>
+
