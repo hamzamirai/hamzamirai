@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hamza Chaouki</h1>
 <h3 align="center">I would love to combine my passion for learning and my software development skills to continue building applications for people to benefit from.</h3>
 
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+Let's+follow+each+other+💖" /> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devhch&label=Profile%20views&color=0e75b6&style=flat" alt="devhch" /> </p>
 
 
