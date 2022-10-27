@@ -29,8 +29,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devhch&" alt="devhch" /></p>
 
-
 <img src="https://github.com/Amira-Zahran/Amira-zahran/blob/output/github-contribution-grid-snake.svg" alt="Snake"/>
+
+## 📊 GitHub Stats
+<p align="left"> <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=devhch&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="devhch" /> </p>
+<p align="left"> &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=devhch&show_icons=true&locale=en&theme=tokyonight" alt="devhch" /> </p>
 
 ## 🏆 GitHub Profile Trophies
 <p align="center">
