@@ -4,6 +4,7 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+Let's+follow+each+other+💖" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devhch&label=Profile%20views&color=0e75b6&style=flat" alt="devhch" /> </p>
+ <p align="left">  <img src="https://img.shields.io/github/followers/devhch?label=Followers&color=800000&style=flat" alt="devhch" height="40" width="160" /> </p>
 
 
 - 🌱 I’m currently learning **iOS Development**
