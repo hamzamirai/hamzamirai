@@ -3,8 +3,8 @@
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+Let's+follow+each+other+💖" /> </p>
  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=devhch&label=Profile%20views&color=004080&style=flat" alt="devhch" height="40" width="240" />
-	           <img src="https://img.shields.io/github/followers/devhch?label=Followers&color=800000&style=flat" alt="devhch" height="40" width="160" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hamzamirai&label=Profile%20views&color=004080&style=flat" alt="hamzamirai" height="40" width="240" />
+	           <img src="https://img.shields.io/github/followers/hamzamirai?label=Followers&color=800000&style=flat" alt="hamzamirai" height="40" width="160" />
 </p>
 <br>
 
@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/devhch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devhch" height="30" width="40" /></a>
-<a href="https://instagram.com/devhch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devhch" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hamzamirai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamzamirai" height="30" width="40" /></a>
+<a href="https://instagram.com/hamzamirai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamzamirai" height="30" width="40" /></a>
 </p>
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
@@ -30,10 +30,10 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" align="right" height="300"/>
 
 ## 📊 GitHub Stats
-<p align="left"> <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=devhch&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="devhch" /> </p>
-<p align="left"> &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=devhch&show_icons=true&locale=en&theme=tokyonight" alt="devhch" /> </p>
+<p align="left"> <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzamirai&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="hamzamirai" /> </p>
+<p align="left"> &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=hamzamirai&show_icons=true&locale=en&theme=tokyonight" alt="hamzamirai" /> </p>
 
 ## 🏆 GitHub Profile Trophies
 <p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devhch&theme=algolia" alt="devhch" /></a> </p>
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzamirai&theme=algolia" alt="hamzamirai" /></a> </p>
 
