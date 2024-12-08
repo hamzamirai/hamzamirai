@@ -42,7 +42,7 @@ As a co-founder of **MiraiDevs**, I am passionate about the evolving landscape o
 
 - **Email:** [hamzachaouki23@gmail.com](mailto:hamzachaouki23@gmail.com)
 - **LinkedIn:** [linkedin.com/in/hamzamirai](https://linkedin.com/in/hamzamirai)
-- **Instagram:** [instagram.com/hamza._.dev/](https://instagram.com/hamza.spatial)
+- **Instagram:** [instagram.com/hamza.spatial/](https://instagram.com/hamza.spatial)
 
 ---
 
