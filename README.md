@@ -52,13 +52,13 @@ As a co-founder of **MiraiDevs**, I am passionate about the evolving landscape o
 <a href="https://developer.apple.com/swift/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
 </a>  
-**(SwiftUI, UIKit, Xcode, visionOS SDK)**
+**(SwiftUI, UIKit, Xcode, visionOS)**
 
 **Android Ecosystem:**  
 <a href="https://developer.android.com/kotlin" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
 </a>  
-**(Jetpack Compose, Android Studio, Meta Horizon OS SDK)**
+**(Jetpack Compose, Android Studio, Meta Horizon OS)**
 
 **Cross-Platform Experience (Past):**  
 <a href="https://flutter.dev" target="_blank">
@@ -123,5 +123,3 @@ As a co-founder of **MiraiDevs**, I am passionate about the evolving landscape o
 
 **Thanks for Visiting!**  
 _Stay curious, keep building, and let’s shape the future of technology together._
-
-<img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="100%" alt="Header Image"/>
